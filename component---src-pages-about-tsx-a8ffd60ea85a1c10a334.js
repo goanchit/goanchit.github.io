@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkpersonal_site=self.webpackChunkpersonal_site||[]).push([[49],{2766:function(e,l,t){t.r(l);var n=t(3956),a=t(2316),r=t(917);l.default=()=>(0,r.tZ)(n.Z,null,(0,r.tZ)(a.$,null,"A little bit about me"),(0,r.tZ)("h4",null,"I have been working as a software developer for 3 years now. I will be writing here"))}}]);
+//# sourceMappingURL=component---src-pages-about-tsx-a8ffd60ea85a1c10a334.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkpersonal_site=self.webpackChunkpersonal_site||[]).push([[578],{673:function(t,l,n){n.d(l,{J:function(){return s}});const s=[{Title:"First Blog Post",Description:"Built this blog app using gatsby"}]},4684:function(t,l,n){n.r(l);var s=n(7294),e=n(3956),i=n(673),u=n(2316),o=n(917);l.default=()=>(0,o.tZ)(e.Z,null,(0,o.tZ)(u.$,null,"Blog Posts"),i.J.map((t=>(0,o.tZ)(s.Fragment,null,(0,o.tZ)("h3",null,t.Title),(0,o.tZ)("h5",null,t.Description)))))}}]);
+//# sourceMappingURL=component---src-pages-blogs-tsx-87c8d23c1d0594c7077b.js.map
